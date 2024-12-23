@@ -51,7 +51,7 @@
 >> - Language : javascript
 >> - Skill : React.js
 >>
->> [프로젝트 상세 설명(Front-end)](https://github.com/Kyuseon-LEE/acflix)
+>> [프로젝트 상세 설명](https://github.com/Kyuseon-LEE/acflix)
 
 <br />
 

@@ -45,10 +45,10 @@
 > OTT 사이트 컨텐츠 노출 및 개인 콘텐츠 보관 및 찜 순위 및 연령대 별 순위 노출
 >
 > - 개발기간 : 2024.07.10-07.23
-> - 핵심 역할 : 팀장, 리액트만을 이용한 전체 디자인 및 캐러셀 슬라이드 구현, 기타 유틸 기능 구현
+> - 핵심 역할 : 팀장, React를 이용한 전체 디자인 및 캐러셀 슬라이드 구현, 기타 유틸 기능 구현
 >
 >> Front-end
->> - Language : javascript
+>> - Language : html5, css3, javascript
 >> - Skill : React.js
 >>
 >> [프로젝트 상세 설명](https://github.com/Kyuseon-LEE/acflix)
@@ -62,8 +62,8 @@
 > - 개발기간 : 2024.10.23 ~ 11.15
 > - 핵심 역할 : 조원, node.js를 이용한 유저페이지 view 및 유저 기능(상품리스트, 장바구니, 결제(toss api), 주문관리 등)<br>  Admin 전체 주문관리 및 통계 작업 
 >
->> Front-end
->> - Language : javascript
+>> stack
+>> - Language : html5, css3, javascript
 >> - Skill : node.js
 >>
 >> [프로젝트 상세 설명](https://github.com/Kyuseon-LEE/bread_cloud_node.js)

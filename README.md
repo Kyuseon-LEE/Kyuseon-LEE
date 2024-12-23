@@ -47,7 +47,7 @@
 > - 개발기간 : 2024.07.10-07.23
 > - 핵심 역할 : 팀장, React를 이용한 전체 디자인 및 캐러셀 슬라이드 구현, 기타 유틸 기능 구현
 >
->> Front-end
+>> Stack
 >> - Language : html5, css3, javascript
 >> - Skill : React.js
 >>
@@ -62,7 +62,7 @@
 > - 개발기간 : 2024.10.23 ~ 11.15
 > - 핵심 역할 : 조원, node.js를 이용한 유저페이지 view 및 유저 기능(상품리스트, 장바구니, 결제(toss api), 주문관리 등)<br>  Admin 전체 주문관리 및 통계 작업 
 >
->> stack
+>> Stack
 >> - Language : html5, css3, javascript
 >> - Skill : node.js
 >>

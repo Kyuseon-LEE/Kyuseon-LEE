@@ -81,6 +81,6 @@
 >> - Language : html5, css3, javascript
 >> - Skill : react, node.js, spring boot
 >>
->> [프로젝트 상세 설명](https://github.com/Kyuseon-LEE/bread_cloud_node.js)
+>> [프로젝트 상세 설명](https://github.com/Kyuseon-LEE/MOIM-PROJECT)
 
 <br />

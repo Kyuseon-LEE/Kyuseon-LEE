@@ -82,7 +82,6 @@
 > 개인 디자인 작업 모음입니다.
 >
 > - 내용 : 각 주제에 맞는 상세페이지 디자인 작업
-
 >
 > **[개인 디자인 작업물 보기](https://github.com/Kyuseon-LEE/design-portfolio)**
 

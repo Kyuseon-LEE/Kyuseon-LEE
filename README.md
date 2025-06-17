@@ -78,6 +78,16 @@
 
 ---
 
+### 4. 🖼️ Design
+> 개인 디자인 작업 모음입니다.
+>
+> - 내용 : 각 주제에 맞는 상세페이지 디자인 작업
+
+>
+> **[개인 디자인 작업물 보기](https://github.com/Kyuseon-LEE/design-portfolio)**
+
+---
+
 <div align="center">
 	<h3>📈 GitHub Stats</h3>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuseon-LEE&layout=compact&theme=radical" />
